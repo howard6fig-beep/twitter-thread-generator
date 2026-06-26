@@ -91,7 +91,7 @@ export default function Home() {
                   <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', background: 'white', padding: '25px', border: '2px solid #1DA1F2', borderRadius: '10px', textAlign: 'center', width: '300px', boxShadow: '0 10px 15px rgba(0,0,0,0.1)' }}>
                     <p style={{ fontWeight: 'bold', marginBottom: '10px', fontSize: '16px' }}>Unlock Full Thread</p>
                     <p style={{ fontSize: '14px', marginBottom: '20px', color: '#666' }}>Get the rest of your tweets and copy them instantly.</p>
-                    <a href="STRIPE_PAYMENT_LINK_HERE" style={{ background: '#635bff', color: 'white', padding: '12px 25px', textDecoration: 'none', borderRadius: '5px', fontWeight: 'bold', display: 'inline-block' }}>
+                    <a href="https://buy.stripe.com/5kQ7sN4Znbvg5sB3MQ1B604" style={{ background: '#635bff', color: 'white', padding: '12px 25px', textDecoration: 'none', borderRadius: '5px', fontWeight: 'bold', display: 'inline-block' }}>
                       Unlock for $3
                     </a>
                   </div>
